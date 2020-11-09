@@ -11,6 +11,10 @@ Santiago Domínguez Collado
 
 doi:10.5281/zenodo.4260611
 
+## Licencia del dataset
+
+Creative Commons Attribution 4.0 International Public License
+
 ## Arquitectura del proyecto:
 
 * parser.py: fichero que convierte el archivo html de entrada y genera ficheros con las tablas como salida.
